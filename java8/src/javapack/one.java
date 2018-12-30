@@ -1,5 +1,4 @@
 import java.lang.*;
-package javapack;
 public class one
 {
 
